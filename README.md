@@ -1,4 +1,4 @@
-# word-counter
+# WordCounter
 This script make a vocabulary list and count words from a text file by using Juman++.
 
 # Requirement
